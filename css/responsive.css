@@ -365,6 +365,14 @@
   footer .footer-menu ul li a {
     font-size: 15px;
   }
+  .app-quality .app-quality-header p,
+  .app-quality .app-quality-body p,
+  .app-quality .app-quality-footer p {
+    margin: 10px 13px 20px 13px;
+  }
+  .jackpots-top .col-md-5  {
+    text-align: center;
+}
 
   /* end */
 }
@@ -397,6 +405,14 @@
   .app-download .col-md-6 .img-fluid {
     max-width: 108%;
   }
+  .app-quality .app-quality-header p,
+  .app-quality .app-quality-body p,
+  .app-quality .app-quality-footer p {
+    margin: 10px 13px 20px 13px;
+  }
+  .jackpots-top .col-md-5  {
+    text-align: center;
+}
 }
 
 @media (min-width: 320px) and (max-width: 540px) {
