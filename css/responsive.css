@@ -652,6 +652,9 @@
   .features-quality-left-title .col-md-9 {
     text-align: center;
   }
+  .owl-carousel2 .comment .client-des h4 {
+    margin-top: 20px;
+}
 
   /* end */
 }
